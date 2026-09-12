@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Employees>
+
+    <Employee>
+        <EmployeeID>EMP1001</EmployeeID>
+        <FullName>John Smith</FullName>
+        <Email>john.smith@gmail.com</Email>
+        <PhoneNumber>+1-202-555-0181</PhoneNumber>
+        <PassportNumber>P1234567</PassportNumber>
+        <CreditCard>4111-1111-1111-1111</CreditCard>
+        <IPAddress>192.168.1.25</IPAddress>
+        <Address>
+            <Street>12 Main Street</Street>
+        </Address>
+    </Employee>
+
+    <Employee>
+        <EmployeeID>EMP1002</EmployeeID>
+        <FullName>Priya Sharma</FullName>
+        <Email>priya.sharma@yahoo.com</Email>
+        <PhoneNumber>+91-9876543210</PhoneNumber>
+        <PassportNumber>N9876543</PassportNumber>
+        <CreditCard>5500-0000-0000-0004</CreditCard>
+        <IPAddress>10.0.0.45</IPAddress>
+        <Address>
+            <Street>45 Lake View Colony</Street>
+        </Address>
+    </Employee>
+
+    <Employee>
+        <EmployeeID>EMP1003</EmployeeID>
+        <FullName>Michael Johnson</FullName>
+        <Email>michael.johnson@company.com</Email>
+        <PhoneNumber>+44-7700-900123</PhoneNumber>
+        <PassportNumber>UK987654</PassportNumber>
+        <CreditCard>3400-0000-0000-009</CreditCard>
+        <IPAddress>172.16.0.100</IPAddress>
+        <Address>
+            <Street>78 Oxford Street</Street>
+        </Address>
+    </Employee>
+
+</Employees>

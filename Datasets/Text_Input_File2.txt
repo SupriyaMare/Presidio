@@ -1,0 +1,15 @@
+Last week I finally started my long-planned vacation. My name is Rahul Sharma, and after months of work in Hyderabad I decided to travel abroad for a short break. Before leaving, I booked a cab through a local service. The driver called me from +91-9876543210 to confirm the pickup location at 221 MG Road, Hyderabad. He asked me to share my alternate contact number, so I also gave him 9123456789. I received the cab booking confirmation through email at rahul.sharma92@gmail.com
+, which included the booking ID CAB-458221.
+
+At the airport, the airline staff asked for my passport details. My passport number is K45893721, and the ticket was booked under my full name Rahul Sharma. I paid for the flight ticket using my credit card 4539-1488-0343-6467, and the transaction reference number was TXN8847392. While waiting for boarding, I connected to the airport Wi-Fi and noticed my device had the IP address 192.168.1.25. I also sent a quick email to my colleague amit.kumar@companymail.com
+ informing him that I would be unavailable for the next week.
+
+When I landed in Singapore, I booked another taxi from the airport to my hotel located at 45 Orchard Road, Singapore. The hotel receptionist asked for my identification and emergency contact details. I gave them my phone number +91-9012345678 and my friend Priya Reddy’s number +91-9898989898 in case of emergencies. The receptionist also recorded my email rahul.travel@gmail.com
+ in their system for sending the payment receipt and booking confirmation.
+
+Later that evening, I decided to explore the city. I reserved a table at a restaurant through an online booking platform using my account registered under rahul.sharma92@gmail.com
+. The reservation confirmation came with booking reference RSV-773921. During the payment process I used another debit card ending in 5500001234567890, and the system verified my identity through a one-time password sent to 9876543210.
+
+While walking around Marina Bay, I realized how much personal information we share during simple activities like travel, hotel check-ins, cab bookings, and online reservations. All these details — names, phone numbers, emails, passport numbers, payment cards, and addresses — are considered Personally Identifiable Information (PII). Protecting such information is critical because if exposed, it can lead to identity theft or financial fraud.
+
+That night I wrote everything down in my travel diary, noting that modern systems must carefully detect and protect sensitive information like names, phone numbers, credit cards, email addresses, passport numbers, booking IDs, and IP addresses. Tools like privacy protection systems or PII detection frameworks help ensure that such personal data is properly anonymized before being stored or processed.
